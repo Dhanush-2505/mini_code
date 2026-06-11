@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image: dhanushmyt/food-frontend:11
+        image: dhanushmyt/food-frontend:12
         imagePullPolicy: Always
         ports:
         - containerPort: 80
